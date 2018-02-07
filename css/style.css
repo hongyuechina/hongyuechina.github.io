@@ -21,6 +21,15 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Lato', sans-serif;
 
 }
+/* annoucement */
+.announcement{
+    height: 50px;
+    margin-top: 10px;
+}
+.announcement p{
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
 /*--header--*/
 .logo {
     float: left;
@@ -123,7 +132,7 @@ ul.nav.navbar-nav li a.ser1:hover:before {
     width: 53%;  
 }
 .banner-text h3{
-	font-size: 1.7em;
+	font-size: 1.2em;
     color: #fff;
     display: block;
     font-weight: 100;
@@ -131,10 +140,10 @@ ul.nav.navbar-nav li a.ser1:hover:before {
     text-transform: uppercase;
 }
 .banner-text h2{
-	font-size: 2.5em;
+	font-size: 1.6em;
     color: #fff;
     display: block;
-    font-weight: 100;
+    font-weight: 400;
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 	margin: 0.3em 0;
@@ -853,10 +862,10 @@ ul.nav.navbar-nav li a {
     margin: 1.5em 0;
 }
 .banner-text h3 {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .banner-text h2 {
-    font-size: 2.3em;
+    font-size: 1.3em;
 }
 .banner-text p {
     font-size: 0.9em;
@@ -925,10 +934,10 @@ ul.nav.navbar-nav li a.active, ul.nav.navbar-nav li a:hover {
 }
 @media(max-width:600px){
 .banner-text h2 {
-    font-size: 2em;
+    font-size: 0.9em;
 }
 .banner-text h3 {
-    font-size: 1.2em;
+    font-size: 1.0em;
 }
 .banner-text {
     width: 77%;
@@ -1000,10 +1009,10 @@ p.footer-grid {
     padding: 1em 0.5em;
 }
 .banner-text h3 {
-    font-size: 1em;
+    font-size: 0.8em;
 }
 .banner-text h2 {
-    font-size: 1.4em;
+    font-size: 0.8em;
 }
 .banner {
     height: 239px;
