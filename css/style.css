@@ -372,6 +372,18 @@ ul.nav.navbar-nav li a.ser1:hover:before {
 }
 /*--//about--*/
 
+/* //news */
+.news ul>li>a{
+    color: #333;
+}
+.news span {
+    float: right;
+}
+.news ul>li{
+    margin: 0 0 10px 20px;
+}
+/* //news */
+
 /*--gallery--*/
 .gallery {
     padding-top: 6em;
